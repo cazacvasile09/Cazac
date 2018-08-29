@@ -1,0 +1,10 @@
+2-C
+3-B
+4:
+arraylist allemployees=[firstEmployee,secondEmployee];
+foreach(var i in allemployees)
+	i=(totalMoney+100)/hoursOfWork;
+5:
+int suma=0;
+for(i=0;i<10;i++)
+	suma+=i;
